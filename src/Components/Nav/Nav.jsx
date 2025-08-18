@@ -229,7 +229,13 @@ function Nav() {
                     <option>Studio</option>
                     <option>1 Bedroom</option>
                     <option>2 Bedrooms</option>
+                    <option>3 Bedrooms</option>
                     <option>Luxury Suite</option>
+                    <option>Penthouse</option>
+                    <option>Duplex</option>
+                    <option>Villa</option>
+                    <option>Loft</option>
+                    <option>Townhouse</option>
                   </select>
                 </div>
 
