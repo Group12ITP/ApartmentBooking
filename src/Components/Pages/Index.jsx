@@ -241,10 +241,10 @@ function Index() {
       <div className="py-[80px] bg-gradient-to-br from-[#1a1a1a] via-[#222831] to-[#0f0f0f]">
         <div className="section-title text-center w-full space-y-4 ">
           <span className="bg-[#eab308] rounded-full px-5 py-2 font-bricolage tracking-wider text-sm uppercase text-black font-extrabold">
-            Rooms
+            APARTMENTS
           </span>
           <h1 className="text-2xl sm:text-5xl font-semibold w-full xl:w-[50%] mx-auto leading-tight text-white">
-            Our Best Rooms
+            Our Best Apartments
           </h1>
         </div>
       </div>
@@ -551,11 +551,11 @@ function Index() {
         </h1>
 
         {/* Blog wrapper  ------------------------------------------------------- */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full text-left">
-          <div className="bg-white rounded-[20px] shadow-sm overflow-hidden hover:shadow-xl transition-all duration-300 group p-4">
-            <div className="overflow-hidden rounded-t-[16px]">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full text-left ">
+          <div className=" rounded-[20px] shadow-sm overflow-hidden hover:shadow-xl transition-all duration-300 group p-4">
+            <div className="overflow-hidden rounded-t-[16px] ">
               <img
-                src={blog1}
+                src="https://images.unsplash.com/photo-1698870157085-11632d2ddef8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bGl2aW5ncm9vbSUyMGRhcmt8ZW58MHx8MHx8fDA%3D"
                 alt="blog-image"
                 className="w-full h-56 object-cover transform transition-transform duration-300 group-hover:scale-105"
               />
@@ -563,7 +563,7 @@ function Index() {
             <div className="p-4 bg-[#f2fbfb] rounded-b-[16px]">
               <div className="flex items-center text-sm text-gray-500 gap-2 mb-4">
                 <img
-                  src={blog1}
+                  src="https://images.unsplash.com/photo-1698870157085-11632d2ddef8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bGl2aW5ncm9vbSUyMGRhcmt8ZW58MHx8MHx8fDA%3D"
                   alt="blog-image"
                   className="w-6 h-6 rounded-full object-cover"
                 />
@@ -589,18 +589,18 @@ function Index() {
             </div>
           </div>
 
-          <div className="bg-white rounded-[20px] shadow-sm overflow-hidden hover:shadow-xl transition-all duration-300 group p-4">
+          <div className=" rounded-[20px] shadow-sm overflow-hidden hover:shadow-xl transition-all duration-300 group p-4">
             <div className="overflow-hidden rounded-t-[16px]">
               <img
-                src={blog2}
+                src="https://images.unsplash.com/photo-1678705424487-a59e52b08275?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGxpdmluZ3Jvb20lMjBkYXJrfGVufDB8fDB8fHww"
                 alt="blog-image"
                 className="w-full h-56 object-cover transform transition-transform duration-300 group-hover:scale-105"
               />
             </div>
-            <div className="p-4 bg-[#f2fbfb] rounded-b-[16px]">
+            <div className="p-4 bg-[#f2fbfb] rounded-b-[16px] ">
               <div className="flex items-center text-sm text-gray-500 gap-2 mb-4">
                 <img
-                  src={blog2}
+                  src="https://images.unsplash.com/photo-1678705424487-a59e52b08275?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGxpdmluZ3Jvb20lMjBkYXJrfGVufDB8fDB8fHww"
                   alt="blog-image"
                   className="w-6 h-6 rounded-full object-cover"
                 />
@@ -626,10 +626,10 @@ function Index() {
             </div>
           </div>
 
-          <div className="bg-white rounded-[20px] shadow-sm overflow-hidden hover:shadow-xl transition-all duration-300 group p-4">
+          <div className=" rounded-[20px] shadow-sm overflow-hidden hover:shadow-xl transition-all duration-300 group p-4">
             <div className="overflow-hidden rounded-t-[16px]">
               <img
-                src={blog3}
+                src="https://images.unsplash.com/photo-1722888471079-d2c2b3eeb6ea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fGxpdmluZ3Jvb20lMjBkYXJrfGVufDB8fDB8fHww"
                 alt="blog-image"
                 className="w-full h-56 object-cover transform transition-transform duration-300 group-hover:scale-105"
               />
@@ -637,7 +637,7 @@ function Index() {
             <div className="p-4 bg-[#f2fbfb] rounded-b-[16px]">
               <div className="flex items-center text-sm text-gray-500 gap-2 mb-4">
                 <img
-                  src={blog3}
+                  src="https://images.unsplash.com/photo-1722888471079-d2c2b3eeb6ea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fGxpdmluZ3Jvb20lMjBkYXJrfGVufDB8fDB8fHww"
                   alt="blog-image"
                   className="w-6 h-6 rounded-full object-cover"
                 />

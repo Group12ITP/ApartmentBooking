@@ -216,6 +216,7 @@ function Contact() {
                 support@hotellux.com
               </p>
             </div>
+            
           </div>
         </div>
       </section>
