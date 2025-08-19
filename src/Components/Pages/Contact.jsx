@@ -211,9 +211,10 @@ function Contact() {
               </div>
               <h3 className="text-xl font-semibold text-white mb-2">Email Address</h3>
               <p className="text-gray-300 text-sm">
-                info@hotellux.com<br />
-                reservations@hotellux.com<br />
-                support@hotellux.com
+                info@heavenpinweb.com<br />
+                reservations@heavenpinweb.com<br />
+                support@heavenpinweb.com
+
               </p>
             </div>
             
