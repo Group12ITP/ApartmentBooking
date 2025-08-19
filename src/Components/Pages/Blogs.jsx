@@ -74,15 +74,14 @@ function Blogs() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
             {[
               {
-                image: blog1,
+                image: "https://images.unsplash.com/photo-1705681948348-a449961555dd?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                 date: "14-08-2025",
-                title:
-                  "Choosing the Right Countryside Apartment: Space, View, and Access",
+                title: "Choosing the Right Countryside Apartment: Space, View, and Access",
                 excerpt:
                   "A practical framework to evaluate rural apartments—floor plans, natural light, outdoor access, and proximity to trails—so every stay feels like home.",
               },
               {
-                image: blog2,
+                image: "https://images.unsplash.com/photo-1624204386084-dd8c05e32226?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGFwYXJ0bWVudHN8ZW58MHx8MHx8fDA%3D",
                 date: "07-08-2025",
                 title: "Amenities that Matter in Rural Serviced Apartments",
                 excerpt:
@@ -144,19 +143,19 @@ function Blogs() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {[
                 {
-                  image: blog3,
+                  image: "https://images.unsplash.com/photo-1680416124510-5eae1beca412?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGx1eHVhcnklMjBhcGFydG1lbnR8ZW58MHwwfDB8fHww",
                   date: "10-03-2025",
                   title: "Top 10 Apartment Stays for 2025",
                   category: "Apartment Living",
                 },
                 {
-                  image: blog4,
+                  image: "https://images.unsplash.com/photo-1730819852720-cf8a9c422ba6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
                   date: "08-03-2025",
                   title: "Must-Have Amenities in Modern Apartments",
                   category: "Lifestyle",
                 },
                 {
-                  image: blog5,
+                  image: "https://images.unsplash.com/photo-1580041065738-e72023775cdc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bHV4dXJ5JTIwYXBhcnRtZW50c3xlbnwwfDB8MHx8fDA%3D",
                   date: "05-03-2025",
                   title: "Eco-Friendly Apartment Rentals: A Sustainable Choice",
                   category: "Sustainability",

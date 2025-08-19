@@ -81,7 +81,7 @@ function Services() {
           {/* item 1 */}
           <div className="service-item relative rounded-lg overflow-hidden flex-shrink-0 snap-center w-[280px] group hover:scale-105 transition-transform duration-300">
             <img
-              src={sercive1}
+              src="https://images.unsplash.com/photo-1580312068767-ebae16ef7af1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fG1vZGVybiUyMGx1eHVyeSUyMEZ1cm5pc2hlZCUyMHJvb21zfGVufDB8MXwwfHx8MA%3D%3D"
               alt="service"
               className="w-full h-[250px] object-cover rounded-lg"
             />
@@ -98,7 +98,7 @@ function Services() {
           {/* item 2 */}
           <div className="service-item relative rounded-lg overflow-hidden flex-shrink-0 snap-center w-[280px] group hover:scale-105 transition-transform duration-300">
             <img
-              src={sercive2}
+              src="https://images.unsplash.com/photo-1652961221362-4ea2d7af5b40?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fG1vZGVybiUyMGx1eHVyeSUyMEZ1cm5pc2hlZCUyMHJvb21zfGVufDB8MXwwfHx8MA%3D%3D"
               alt="service"
               className="w-full h-[250px] object-cover rounded-lg"
             />
@@ -115,7 +115,7 @@ function Services() {
           {/* item 3 */}
           <div className="service-item relative rounded-lg overflow-hidden flex-shrink-0 snap-center w-[280px] group hover:scale-105 transition-transform duration-300">
             <img
-              src={sercive3}
+              src="https://plus.unsplash.com/premium_photo-1661759245158-9b90e7400dae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q1VTVE9NRVIlMjBTVVBQT1JUfGVufDB8MXwwfHx8MA%3D%3D"
               alt="service"
               className="w-full h-[250px] object-cover rounded-lg"
             />
@@ -132,7 +132,7 @@ function Services() {
           {/* item 4 */}
           <div className="service-item relative rounded-lg overflow-hidden flex-shrink-0 snap-center w-[280px] group hover:scale-105 transition-transform duration-300">
             <img
-              src={sercive4}
+              src="https://plus.unsplash.com/premium_photo-1661945231649-e884addfa092?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGVuam95JTIwaW4lMjBhcHJ0bXJudHxlbnwwfDF8MHx8fDA%3D"
               alt="service"
               className="w-full h-[250px] object-cover rounded-lg"
             />
